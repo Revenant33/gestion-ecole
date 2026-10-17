@@ -1,0 +1,19 @@
+# Java / Maven / Eclipse
+target/
+bin/
+.classpath
+.project
+.settings/
+.factorypath
+.sts4-cache/
+*.log
+
+# Secrets
+backend/src/main/resources/application.properties
+.env
+
+# Node
+node_modules/
+dist/
+
+.DS_Store
