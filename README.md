@@ -69,3 +69,7 @@ React, Vite, REST API
 - No automated tests yet
 - No file attachments or profile photo upload
 - No timetable conflict detection
+
+## Documentation
+
+- [Project report (PDF, French)](docs/rapport-pfa.pdf)
